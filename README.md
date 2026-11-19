@@ -6,7 +6,7 @@ I build products end to end and keep them running in production: mobile apps, Ty
 
 ## What I'm working on
 
-**[iwanit](https://iwanit.io)**: co-founder & CTO, Nov 2025 – present.
+**[iwanit](https://iwanit.io)**: co-founder & CTO, Nov 2025 – present · [App Store](https://apps.apple.com/app/iwanit/id6759075172) · [Google Play](https://play.google.com/store/apps/details?id=com.iwanit.app)
 A social app where people share small wishes in short videos and the community helps make them happen. I am the only engineer:
 
 - iOS and Android app (React Native), published on the App Store and Google Play
@@ -15,10 +15,10 @@ A social app where people share small wishes in short videos and the community h
 - AI-based content moderation with an LLM and semantic embeddings
 - In-app payments verified on the server, a Next.js admin panel, observability and GDPR compliance
 
-**[EnKalma](https://www.enkalma.net)**: CTO, May 2026 – present.
+**[EnKalma](https://www.enkalma.net)**: CTO, May 2026 – present · [App Store](https://apps.apple.com/app/enkalma/id6780703212) · [Google Play](https://play.google.com/store/apps/details?id=com.enkalma.app)
 An app for families caring for an elderly relative: medication, wellbeing, visits and communication in one place, with per-person permissions. I lead development end to end: the iOS and Android app, the backend, and the security and privacy of health data.
 
-Both codebases are private. I'm happy to walk through them in an interview.
+Both apps are live on the App Store and Google Play. Their codebases are private; I'm happy to walk through them in an interview.
 
 ## Public projects
 
