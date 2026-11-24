@@ -1,6 +1,6 @@
 # Pablo Rando Alcalá
 
-Software engineer from Málaga, Spain, **relocating to Reykjavík in January 2027** (EU citizen, available from 1 February 2027).
+Software engineer from Málaga, Spain, **relocating to Iceland, by default Reykjavík in January 2027** (EU citizen, available from 1 February 2027).
 
 I build products end to end and keep them running in production: mobile apps, TypeScript backends, PostgreSQL, infrastructure, and the Linux and networking underneath.
 
